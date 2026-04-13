@@ -132,4 +132,4 @@ The application uses 4 tables:
 - **USERS** — User accounts with hashed passwords
 - **DOCUMENTS** — Document content with ownership
 - **DOCUMENT_VERSIONS** — Version history snapshots
-- **COLLABORATORS** — Document sharing relationships
+- **COLLABORATORS** — Document sharing relationship
