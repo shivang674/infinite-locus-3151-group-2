@@ -12,6 +12,7 @@ export default function DashboardPage() {
   const [isLoading, setIsLoading] = useState(true)
   const navigate = useNavigate()
   const fileInputRef = useRef(null)
+   // Handle importing document from local file
 
   function handleFileImport(e) {
     const file = e.target.files?.[0]
