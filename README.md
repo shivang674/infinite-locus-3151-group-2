@@ -21,7 +21,7 @@ A full-stack premium real-time collaboration platform where multiple users can w
 - **Version History** — Every save creates a version snapshot; revert to any previous version
 - **Import & Export** — Directly import local text files and export/download real-time document data
 - **Collaborator Search** — Live-search the database for platform users and instantly invite them directly inside the platform
-- **Live Presence** — See who is currently editing the document
+- **Live Presence** — See who is currently editing this document
 
 ## Project Structure
 
