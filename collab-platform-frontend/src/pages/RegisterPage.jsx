@@ -15,6 +15,7 @@ export default function RegisterPage() {
   async function handleSubmit(e) {
     e.preventDefault()
     setError('')
+    // Validate password length before API call to prevent unnecessary request
 
     if (password.length < 6) {
       setError('Password must be at least 6 characters')
